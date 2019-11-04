@@ -1,0 +1,42 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: beige;
+}
+
+.login {
+    text-align: center;
+    
+}
+
+.login input {
+    margin: 0.5em;
+    padding: 10px;
+}
+
+input {
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.button {
+    background-color: aqua;
+    color: aliceblue;
+    
+}
+
+form {
+    border: solid black 1px;
+    
+}

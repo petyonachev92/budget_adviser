@@ -1,0 +1,7 @@
+@media (max-width: 800px){
+    .login > * {
+        display: block;
+        transform-box: border-box;
+        text-align: center;
+    }
+}
